@@ -1,0 +1,77 @@
+
+[2026-03-03T16:59:51.536Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:00:53.247Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:05:26.950Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:19:14.100Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:19:42.618Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:47:38.783Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:52:50.297Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:56:16.551Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T17:56:21.487Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T18:11:21.808Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+[2026-03-03T18:13:11.408Z] Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
